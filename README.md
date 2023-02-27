@@ -9,10 +9,18 @@
 
 ### Programming
 
-- COBOL: Proud Contributer to the [Otterkit Project](https://github.com/otterkit)
+- COBOL: Proud Contributor to the [Otterkit Project](https://github.com/otterkit)
 - Python
 - C#: See COBOL
 - Matlab
+
+### Tools
+
+- Git
+- Microsoft Office/Google Workspace/Libreoffice
+- Adobe Photoshop
+- Audacity
+- Editors: VSCode, Atom(Now Pulsar), Lapce, Obsidian
 
 ### Other
 
