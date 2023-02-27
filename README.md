@@ -1,5 +1,7 @@
 # Welcome!
 
+<img src="https://github.com/TriAttack238/TriAttack238/blob/main/Vo_B_Logo(2).jpg"  width="25%" height="25%">
+
 ## About Me
 - Name: Sean Vo
 - Pronouns: He/Him
