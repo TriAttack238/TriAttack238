@@ -13,21 +13,25 @@
 
 - COBOL: Proud Contributor to the [Otterkit Project](https://github.com/otterkit)
 - Python
+- C
+- C++
 - C#: See COBOL
 - Matlab
 
 ### Tools
 
 - Git
+- Solidworks
 - Microsoft Office/Google Workspace/Libreoffice
 - Adobe Photoshop
 - Audacity
-- Editors: VSCode, Atom(Now Pulsar), Lapce, Obsidian
+- Editors: VSCodium, Emacs(beginning!)
 
 ### Other
 
 - Reading
 - Audio editing
+- Working out
 - Baked potatoes with cheese, sour cream, and bacon
 
 ## Contacks
