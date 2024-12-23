@@ -17,6 +17,7 @@
 - C++
 - C#: See COBOL
 - Matlab
+- Emacs Lisp: See my Emacs Package [Trope-Mode](https://github.com/TriAttack238/trope-mode)
 
 ### Tools
 
@@ -25,7 +26,7 @@
 - Microsoft Office/Google Workspace/Libreoffice
 - Adobe Photoshop
 - Audacity
-- Editors: VSCodium, Emacs(beginning!)
+- Editors: VSCodium, Emacs
 
 ### Other
 
